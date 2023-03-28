@@ -24,3 +24,5 @@ console.log(hourConverter())
 //Practice making entity relationship diagrams by building one for a pet store, either on paper or on a website such as draw.io. Include a table for pets, owners, and services.
 
 console.log('test')
+
+console.log(numberOfHours)
